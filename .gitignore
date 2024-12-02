@@ -19,7 +19,10 @@ target/
 *.iml
 
 # Input files
-inputs/**/*.txt
+inputs/
+**/inputs/
+**/input.txt
+**/example.txt
 
 # OS specific
 .DS_Store
