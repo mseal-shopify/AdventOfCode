@@ -1,5 +1,5 @@
 class Day1
-  INPUT_PATH = 'Day1/input.txt'.freeze
+  INPUT_PATH = '../inputs/day1/input.txt'.freeze
 
   def self.puzzle_1
     # Read and process input in a single pass

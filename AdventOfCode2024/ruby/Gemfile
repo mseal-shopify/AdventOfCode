@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+# Add basic testing framework
+gem 'rspec'
+
+# Add debugging tools
+gem 'pry'
+gem 'pry-byebug'
+
+# Add code quality tools
+gem 'rubocop'
