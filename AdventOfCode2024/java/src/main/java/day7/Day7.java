@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Day7 {
-        public static final String INPUT_PATH = "../../../../inputs/day7/input.txt";
+    public static final String INPUT_PATH = "../../../../inputs/day7/input.txt";
 
     public static long puzzle1() throws IOException {
         List<String> input = Files.readAllLines(Paths.get(INPUT_PATH));
